@@ -1,0 +1,17 @@
+{
+  "name": "behavioral-patterns",
+  "version": "1.0.0",
+  "description": "Node.js project demonstrating 4 behavioral design patterns",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "observer": "node src/examples/observer.example.js",
+    "strategy": "node src/examples/strategy.example.js",
+    "command": "node src/examples/command.example.js",
+    "chain": "node src/examples/chain.example.js",
+    "all": "node src/index.js"
+  },
+  "keywords": ["design-patterns", "behavioral", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}
